@@ -1,0 +1,30 @@
+body{
+    font-family: 'tahoma','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+textarea{
+    font-family: 'tahoma','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+
+}
+textarea#text{
+    background-color: blanchedalmond;
+}
+textarea#translate{
+    background-color: aquamarine;
+    direction: rtl;
+    text-align: justify;
+}
+.del{
+    color: brown;
+}
+.edit{
+    color: coral;
+}
+.form_btn{
+    font-weight: bold;
+    font-size: larger;
+}
+.bigtext{
+    font-size: 20px;
+    background-color: beige;
+}
